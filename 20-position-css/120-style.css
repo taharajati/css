@@ -1,0 +1,8 @@
+.mybox {
+    background-color: #9c27b0;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: sticky;
+    top: 0;
+}

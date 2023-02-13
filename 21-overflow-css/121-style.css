@@ -1,0 +1,7 @@
+div {
+    background-color: yellow;
+    color: #000;
+    padding: 3px;
+    height: 100px;
+    overflow: hidden;
+}

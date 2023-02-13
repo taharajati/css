@@ -1,0 +1,20 @@
+* {
+    font-size: 12px;
+}
+
+h2, p, h1 {
+    color: pink;
+    font-family: cursive;
+}
+#rjt {
+    color: green;
+}
+.taha {
+    color: blue;
+}
+p {
+    color: orange;
+}
+p.taha1 {
+    color: aqua;
+}
