@@ -1,0 +1,12 @@
+.b1 {
+	background-color:red;
+	width:140px;
+	height:40px;
+	padding:20px;
+	border:8px solid #000;
+}
+.b2 {
+	background-color:blue;
+	width:140px;
+	height:40px;
+}

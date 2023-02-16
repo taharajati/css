@@ -1,0 +1,16 @@
+.element {
+	background-color:#f1f1f1;
+	color:#000;
+	padding:15px;
+	width:60%;
+	font-size:11px;
+	font-family:yekan bakh;
+	margin:10px auto;
+}
+.element::before {
+	content:"“";
+}
+
+.element::after {
+	content:"”";
+}

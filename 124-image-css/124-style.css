@@ -1,0 +1,10 @@
+img {
+    display: block;
+    padding: 5px;
+}
+.img2 {
+    display: none;
+}
+.img3 {
+    margin: 10px auto;
+}

@@ -1,0 +1,12 @@
+input[type="text"] {
+	width:95%;
+	border:1px solid #f2f2f2;
+	border-radius:15px;
+	font-size:16px;
+	background-color:#fff;
+	padding:12px 20px 12px 40px;
+	background-image:url(jungel.jpg);
+	background-position:10px;
+	color:#fff;
+
+}
