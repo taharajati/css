@@ -1,0 +1,14 @@
+div {
+	width:100px;
+	height:100px;
+	background-color:yellow;
+	position:relative;
+	animation:sabzlearn 10s infinite alternate;
+}
+@keyframes sabzlearn {
+	0% {left:0;top:0px;}
+	25% {left:300px;top:0px;}
+	50% {left:300px;top:200px;}
+	75% {left:0;top:200px;}
+	100% {left:0;top:0px;}
+}

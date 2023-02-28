@@ -1,0 +1,34 @@
+.box {
+    color: #fff;
+    font-family: yekan bakh;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  
+}
+.box span {
+    font-size: 19px;
+    font-weight: 500;
+}
+.blue {
+    background-color: #0D47A1;
+}
+.box a {
+    color: #fff;
+    font-family: tahoma;
+    font-size: 12px;
+    margin-right: 20px;
+    font-weight: 100;
+}
+.insta {
+     background-color: #FF6F00;
+}
+.red {
+    background-color: #b71c1c;
+}
+.pink {
+    background-color:#C2185B ;
+}
+.black {
+    background-color:#212121 ;
+}

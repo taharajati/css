@@ -1,0 +1,10 @@
+h3 {
+	text-align:center;
+	text-shadow:10px 5px 5px #5db616;
+}
+div {
+	box-shadow:5px 5px 10px 2px #bbb;
+	width:100px;
+	height:100px;
+	background-color:#000;
+}

@@ -1,0 +1,5 @@
+img {
+	margin:10px 15px;
+	width: 400px;
+	transform:skew(-10deg, 5deg);
+}
